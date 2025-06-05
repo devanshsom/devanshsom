@@ -38,7 +38,7 @@
 ### 🌱 Recent Projects
 
 - 🧑‍🍳 [**HealMeal**](https://github.com/devanshsom/HealMeal-Food-Recommendation-System.git) — AI-powered food recommendation for people with special needs.
-- 🎨 [FashionLine](#) — An elegant e-commerce platform for discovering and purchasing stylish clothing.
+- 🎨 [FashionLine](https://github.com/devanshsom/FashionLine.git) — An elegant e-commerce platform for discovering and purchasing stylish clothing.
 - 📊 [Multithreaded TCP Server](#) — High-performance C++ server using Winsock2 and multithreading to handle 100+ concurrent clients with thread-safe logging and monitoring.
 
 ---
