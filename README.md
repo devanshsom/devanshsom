@@ -37,7 +37,7 @@
 
 ### 🌱 Recent Projects
 
-- 🧑‍🍳 [**Meals with Care**](#) — AI-powered food recommendation for people with special needs
+- 🧑‍🍳 [**HealMeal**](#) — AI-powered food recommendation for people with special needs
 - 🎨 [OpenGL Visualizer](#) — Circle clipping, flood fill, and boundary fill
 - 📊 [ML Model Evaluator](#) — Accuracy, Precision, Recall calculator in Colab
 
