@@ -63,7 +63,7 @@
 
 - 🧩 I enjoy solving logical puzzles and participating in math-based competitions like **Auctionomics**
 - 🌍 I organize plantation drives, cleanliness campaigns, and sustainability events
-- 🎨 I teach crafting skills to specially-abled children at **Jawahar Kala Kendra**
+  
 
 ---
 
